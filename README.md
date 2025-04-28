@@ -1,7 +1,7 @@
 
 
 🌸 Tiffany Michelle Iris Haycraft 🌸
-💗 Distance Learning Student at Harvard University 💗
+💗 Distance Learning Student & Employee at Harvard University 💗
 
   
 
@@ -47,7 +47,7 @@ Check out my GitHub repos for a peek at my coding adventures!💻 GitHub Reposit
 
 📬 Contact
 
-💌 Email: tiffany@example.com  
+💌 Email: tiffany@harvard.edu
 🌐 LinkedIn: Tiffany Haycraft
 
 
