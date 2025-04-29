@@ -1,7 +1,7 @@
 
 
 🌸 Dr. Sarah Chen 🌸
-💗 Distance Learning Lecturer & Employee at Harvard University 💗
+💗 Distance Learning Lecturer & Faculty at Harvard University 💗
 
   
 
