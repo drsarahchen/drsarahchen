@@ -8,14 +8,14 @@
 
 
 💖 About Me
-👋 Hi there! I’m Tiffany Haycraft, a passionate student diving into the world of knowledge through Harvard University’s distance learning program. My journey is all about blending flexibility with top-tier education—think of it as my personal recipe for growth! I thrive on self-motivation, time management, and adaptability, skills that light up my path in this fast-paced world.
+👋 Hi there! I’m Sarah Chen, a passionate lecturer diving into the world of knowledge through Harvard University’s distance learning program. My journey is all about blending flexibility with top-tier education—think of it as my personal recipe for growth! I thrive on self-motivation, time management, and adaptability, skills that light up my path in this fast-paced world.
 At Harvard, I’m tackling a vibrant curriculum that sparks critical thinking and collaboration—all from the comfort of my own space. Outside of studies, I’m a coding enthusiast, a data explorer, and a volunteer at heart!
 "Dream big, work hard, and sprinkle a little pink magic!"
 
 
 🎓 Education
 
-Harvard University🌟 Enrolled in the Distance Learning Program🌟 Focused on critical analysis, research, and virtual teamwork  
+Harvard University🌟 Enrolled in the Distance Learning Program🌟 Virtual Learning Program Focused on critical analysis, research, and virtual teamwork  
 
 
 🌟 Skills
@@ -47,8 +47,8 @@ Check out my GitHub repos for a peek at my coding adventures!💻 GitHub Reposit
 
 📬 Contact
 
-💌 Email: tiffany@harvard.edu
-🌐 LinkedIn: Tiffany Haycraft
+💌 Email: schen@harvard.edu
+🌐 LinkedIn: Sarah
 
 
 
