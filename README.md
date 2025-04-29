@@ -1,7 +1,7 @@
 
 
-🌸 Tiffany Michelle Iris Haycraft 🌸
-💗 Distance Learning Student & Employee at Harvard University 💗
+🌸 Dr. Sarah Chen 🌸
+💗 Distance Learning Lecturer & Employee at Harvard University 💗
 
   
 
